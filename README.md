@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 
 Some other stuff:
 
-[Swipin]()
+[Swipin](https://github.com/RTX3080Ti-Official/swipin)
