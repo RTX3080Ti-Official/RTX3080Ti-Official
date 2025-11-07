@@ -10,6 +10,8 @@ RTX3080Ti-Official/RTX3080Ti-Official is a ✨ special ✨ repository because it
 You can click the Preview link to take a look at your changes.
 --->
 
+By the way also decompiling Geometry Dash 2.2, with plans to make ot run natively on Linux and Web (if Cocos has a web engine).
+
 Some other stuff:
 
 [Swipin](https://github.com/RTX3080Ti-Official/swipin)\
