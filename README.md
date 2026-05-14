@@ -8,3 +8,4 @@ idk working on discor clon and msi editor (cuz orca do th bad)
 
 ## stats
 ![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
